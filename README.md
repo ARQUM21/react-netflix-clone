@@ -1,20 +1,46 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
+# React Netflix Clone
+A fully responsive Netflix-style clone built with React (Vite), Tailwind CSS, and Firebase for authentication and basic data needs. The app includes user authentication, movie browsing, protected routes, and helpful UX features like toast notifications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+Firebase Authentication (Sign In / Sign Up)
+Responsive Netflix-like UI using Tailwind CSS
+Client-side routing with React Router DOM
+Movie cards, hero/banner sections, and responsive grid layouts
+Toast notifications with React Toastify
+Clean, maintainable project structure
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tech stack
 
-## Expanding the ESLint configuration
+React (Vite)
+Tailwind CSS
+Firebase Authentication
+React Router DOM
+React Toastify
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-netflix-clone
->>>>>>> e8baf09c3143972469539fb88ac62352d2c3eaa0
-=======
-# react-netflix-clone
->>>>>>> 9c54c863b9d0bd5c6daba36ac42eb676d3310c37
+## Installation & setup
+bash
+
+# 1. Clone the repository
+git clone https://github.com/ARQUM21/react-netflix-clone.git
+
+# 2. Go into the project folder
+cd react-netflix-clone
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
+## Contributing
+Contributions are welcome Open an issue or submit a pull request for improvements or bug fixes. Please follow the repository style and run npm run dev to test locally before submitting.
+
+## Acknowledgements
+Tailwind CSS documentation [https://firebase.google.com/docs]
+Firebase documentation [https://tailwindcss.com/docs/installation/using-vite]
+Inspired by Netflix UI and various open-source Netflix clone examples
+
+# Thanks
+Thank you for checking out this project, If you found it helpful, please ⭐ the repo and share feedback.
