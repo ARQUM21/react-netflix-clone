@@ -5,6 +5,8 @@ This project replicates core Netflix features, including **real-time movie data 
 
 It is designed for learning purposes and to demonstrate how to integrate Firebase authentication, TMDB API, and responsive UI design in a React project.
 
+![Netflix Clone Login page](https://github.com/ARQUM21/react-netflix-clone/blob/f027ba62ffd5c7fa80109a122e0a7e254c269abb/src/assets/netflix-login.PNG)
+
 ![Netflix Clone Screenshot](https://github.com/ARQUM21/react-netflix-clone/blob/8f36dbd22566cd76defe589af9dca69176146679/src/assets/netflix.PNG)
 
 ---
