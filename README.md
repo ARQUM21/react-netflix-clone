@@ -9,6 +9,8 @@ It is designed for learning purposes and to demonstrate how to integrate Firebas
 
 ![Netflix Clone Screenshot](https://github.com/ARQUM21/react-netflix-clone/blob/8f36dbd22566cd76defe589af9dca69176146679/src/assets/netflix.PNG)
 
+![Netflix Clone Video](https://github.com/ARQUM21/react-netflix-clone/blob/29dab1217ef26f2473c346217d0e8b56b229e416/src/assets/video-netflix.PNG)
+
 ---
 
 ## Features
