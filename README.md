@@ -56,10 +56,11 @@ Please open an issue or submit a pull request for feature enhancements or bug fi
 Follow the existing code style and run npm run dev to test changes locally before submission.
 
 ## Acknowledgements
-Tailwind CSS Documentation
-Firebase Documentation
-TMDB API Documentation
-Inspired by Netflix UI and modern streaming service designs
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [Firebase Documentation](https://firebase.google.com/docs)
+- [TMDB API Documentation](https://developer.themoviedb.org/docs)
+- Inspired by Netflix UI and modern streaming service designs
+
 
 ## Thanks
 Thank you for exploring this project.
